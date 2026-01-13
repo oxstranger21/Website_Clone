@@ -5,7 +5,7 @@ The website was cloned using the **HTTrack Website Copier** tool for **education
 
 ## 📌 Project Link : 
  ```bash
- [GIFT Autonomous Bhubaneswar Website](https://lighthearted-manatee-f15569.netlify.app/)
+ [GIFT Autonomous Bhubaneswar Website] (https://lighthearted-manatee-f15569.netlify.app)
  
   ```
 
