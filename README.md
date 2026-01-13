@@ -35,8 +35,8 @@ These files together replicate the structure of the original website for offline
   https://github.com/oxstranger21/Website_Clone.git
 ```
 
-**Auther**                                  
-## Gopi Kumar           
+## Auther                               
+**Gopi Kumar**           
 🎓 Computer Science Student
 💡 Learning Cybersecurity | Ethical Hackeing | Git & GitHub
 
