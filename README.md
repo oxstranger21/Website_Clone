@@ -3,6 +3,11 @@
 This repository contains a cloned version of the **GIFT Autonomous, Bhubaneswar** official website.  
 The website was cloned using the **HTTrack Website Copier** tool for **educational and learning purposes only**.
 
+## 📌 Project Link : 
+ ```bash
+  https://lighthearted-manatee-f15569.netlify.app/
+  ```
+
 ## 📌 Project Purpose
 The main objective of this project is to:
 - Understand website structure and file organization
@@ -26,4 +31,6 @@ These files together replicate the structure of the original website for offline
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+  https://github.com/oxstranger21/Website_Clone.git
+  ```
+  
